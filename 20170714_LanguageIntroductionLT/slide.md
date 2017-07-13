@@ -276,7 +276,7 @@ MSG DC 'Happy Hacking'
 >>>
 
 ずっとこれがやりたかった！！！
-![](pic/pic.png)
+![](pic/pic1.png)
 
 >>>
 
@@ -295,3 +295,16 @@ MSG DC 'Happy Hacking'
 CASL嫌いな1年生はとりあえずRubyしてみよう！
 
 >>>
+
+割とがちで作って欲しいのでチケット立ててます
+
+![](pic/pic2.png)
+
+>>>
+
+みなさんPR待ってます♡
+
+---
+
+## *~ fin ~*
+![](pic/pic3.png)
